@@ -1,14 +1,16 @@
 [tool.poetry]
-name = "testx"
+name = "test3"
 version = "0.1.0"
 description = ""
 authors = ["Your Name <you@example.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
-jupyter = "^1.0.0"
 ipywidgets = "^7.6.5"
+jupyter = "^1.0.0"
 jupyterlab = "^3.2.3"
+Markdown = "^3.3.4"
+colorama = "^0.4.4"
 
 [tool.poetry.dev-dependencies]
 

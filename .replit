@@ -1,2 +1,1 @@
-run = "jupyter notebook --config jupyter_notebook_config.py"
-language = "python"
+run = "jupyter lab --config jupyter_notebook_config.py"
